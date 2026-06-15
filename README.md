@@ -1,4 +1,4 @@
-# Counter Strike 1.6 Amxmodx Compiler (For AMXMODX 1.10)
+# Counter Strike 1.6 AMX Compiler (AMXMODX 1.10.x)
 - I added as much as i can of Include's to make it easier to use.
 
 # Usage
